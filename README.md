@@ -40,3 +40,9 @@
 ### District Performance:
 
 •Over 250 districts demonstrated high-grade performance.
+
+## Visual Representation:
+
+![Grade Distribution](https://github.com/Sudhandiradhivya/PGI-District-State/assets/132898988/e033d9b4-f588-4d5f-b382-835677c6a6da)
+![Category breakdown](https://github.com/Sudhandiradhivya/PGI-District-State/assets/132898988/21ebc884-8f2f-4f38-8919-28d74d1feb68)
+![Geographic](https://github.com/Sudhandiradhivya/PGI-District-State/assets/132898988/f1d2c4c3-30fa-416f-b640-7a409d6bd561)
