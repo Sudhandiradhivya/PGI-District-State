@@ -1,5 +1,5 @@
 # PGI-District-State
-'PGI-District & State.' Revealing impactful insights into district and state performances. 🌟 Exploring PGI metrics from 2018 to 2022, diving into intricate district and state data dynamics.
+'PGI-District & State analysis' revealing impactful insights into district and state performances. 🌟 Exploring PGI metrics from 2018 to 2022, diving into intricate district and state data dynamics.
 
 ## Tools/Features Used 🛠️
 
